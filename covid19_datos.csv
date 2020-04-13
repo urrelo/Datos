@@ -299,3 +299,33 @@ FID;id;dpto;fecha;genero;edad;cat_edad;tipo_conta;point_x;point_y
 297;298;Potosi;11/4/2020;S/D;S/D;S/D;Local;-65.733908;-19.55242
 298;299;Cochabamba;11/4/2020;S/D;S/D;S/D;Local;-66.152906;-17.40594
 299;300;Pando;11/4/2020;S/D;S/D;S/D;Local;-67.074938;-11.047377
+300;301;Cochabamba;12/4/2020;S/D;S/D;S/D;Local;-66.155375;-17.410151
+301;302;Cochabamba;12/4/2020;S/D;S/D;S/D;Local;-66.152389;-17.403961
+302;303;Cochabamba;12/4/2020;S/D;S/D;S/D;Local;-66.153678;-17.406257
+303;304;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.12941;-16.491032
+304;305;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.128938;-16.490908
+305;306;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.128938;-16.490908
+306;307;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.128938;-16.490908
+307;308;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.12941;-16.491032
+308;309;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.128938;-16.490908
+309;310;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.12941;-16.491032
+310;311;La Paz;12/4/2020;S/D;S/D;S/D;Local;-68.128938;-16.490908
+311;312;Oruro;12/4/2020;S/D;S/D;S/D;Local;-67.09302;-17.971695
+312;313;Oruro;12/4/2020;Hombre;59;Adulto Mayor;Local;-67.093029;-17.971714
+313;314;Santa Cruz;12/4/2020;Hombre;19;Adolecente;Local;-63.106457;-17.743655
+314;315;Santa Cruz;12/4/2020;Hombre;57;Adulto Mayor;Local;-63.104054;-17.745127
+315;316;Santa Cruz;12/4/2020;Hombre;38;Adulto;Local;-63.105256;-17.743001
+316;317;Santa Cruz;12/4/2020;Hombre;26;Adulto;Local;-63.104054;-17.745127
+317;318;Santa Cruz;12/4/2020;Hombre;16;Adolecente;Local;-63.103882;-17.743165
+318;319;Santa Cruz;12/4/2020;Hombre;41;Adulto Mayor;Local;-63.103882;-17.743165
+319;320;Santa Cruz;12/4/2020;Hombre;29;Adulto;Local;-63.106801;-17.741857
+320;321;Santa Cruz;12/4/2020;Hombre;34;Adulto;Local;-63.106457;-17.743655
+321;322;Santa Cruz;12/4/2020;Hombre;29;Adulto;Local;-63.106457;-17.743655
+322;323;Santa Cruz;12/4/2020;Mujer;50;Adulto Mayor;Local;-63.106457;-17.743655
+323;324;Santa Cruz;12/4/2020;Mujer;33;Adulto;Local;-63.106457;-17.743655
+324;325;Santa Cruz;12/4/2020;Mujer;49;Adulto Mayor;Local;-63.104054;-17.745127
+325;326;Santa Cruz;12/4/2020;Mujer;19;Adolecente;Local;-63.105256;-17.743001
+326;327;Santa Cruz;12/4/2020;S/D;S/D;S/D;Local;-63.106457;-17.743655
+327;328;Santa Cruz;12/4/2020;S/D;S/D;S/D;Local;-63.105707;-17.744138
+328;329;Santa Cruz;12/4/2020;S/D;S/D;S/D;Local;-63.104954;-17.744406
+329;330;Tarija;12/4/2020;Hombre;63;Adulto 3ra Edad;Local;-64.730254;-21.51516
